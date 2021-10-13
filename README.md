@@ -1,0 +1,1 @@
+This is Scott Sugarman's first git project!
